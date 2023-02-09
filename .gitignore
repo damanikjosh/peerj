@@ -1,0 +1,23 @@
+sensitivity_analysis/
+archive/
+
+# Python
+*.py[cod]
+*$py.class
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# PyDev
+*.pydevproject
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+
+# Spyder project settings
+.spyderproject
+.spyproject
