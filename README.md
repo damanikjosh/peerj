@@ -5,7 +5,7 @@ Email: joshuajdmk@gmail.com
 [![DOI](https://zenodo.org/badge/599489117.svg)](https://zenodo.org/badge/latestdoi/599489117)
 
 ## Abstract
-This paper presents a distributed data aggregation algorithm for clustered network of multi-agent systems. The algorithm is based on the concept of distributed data aggregation.
+Multi-agent systems are promising for applications in various fields. To perform coordination, they require optimization algorithm that can handle large number of agents and heterogeneously connected network in clustered environment. Planning algorithms performed in the decentralized communication model and clustered environment require precise knowledge about cluster information by compensating noise from other clusters. So, this paper proposes decentralized data aggregation algorithm using consensus method is proposed to perform COUNT and SUM aggregation in a clustered environment. By introducing trust value, the algorithm can perform accurate aggregation on cluster level. The correction parameter can compromises the accuracy of the solution and the computation time. From simulation results, the proposed algorithm can achieve convergence on the aggregated data with reasonable accuracy and convergence time, even in large and sparse network and using small bandwidth. In the future, the proposed tools will be useful for developing a robust decentralized task assignment algorithm in a heterogeneous multi-agent multi-task environment.
 
 ## How to run
 1. Install python 3.10 or above
