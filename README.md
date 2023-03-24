@@ -1,6 +1,8 @@
-# Source Code for Paper Distributed data aggregation in clustered network of multi-agent systems
+# Source Code for Paper Consensus-based clustering and data aggregation in decentralized network of multi-agent systems
 Author: Joshua Julian Damanik<br>
 Email: joshuajdmk@gmail.com
+
+[![DOI](https://zenodo.org/badge/599489117.svg)](https://zenodo.org/badge/latestdoi/599489117)
 
 ## Abstract
 This paper presents a distributed data aggregation algorithm for clustered network of multi-agent systems. The algorithm is based on the concept of distributed data aggregation.
@@ -36,10 +38,10 @@ You can check `python3 data_aggregation.py --help` for the list of flags.
 If you use this code for your research, please cite our paper.
 
 ```bibtex
-@misc{damanik2021distributed,
+@article{damanik2023distributed,
       title={Distributed data aggregation in clustered network of multi-agent systems}, 
       author={Joshua Julian Damanik, Han-Lim Choi},
-      year={2022},
+      year={2023},
       journal={PeerJ Computer Science}
 }
 ```
